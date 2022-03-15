@@ -1,0 +1,26 @@
+{
+  "name": "02..tdd_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeongChan-An/TDD_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeongChan-An/TDD_Practice/issues"
+  },
+  "homepage": "https://github.com/SeongChan-An/TDD_Practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.1"
+  }
+}
