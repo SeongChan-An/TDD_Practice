@@ -1,1 +1,3 @@
 node_modules/
+# git rm -r --cached . // cache에 기록된 tracking 중인 파일리스트 삭제
+coverage/*
